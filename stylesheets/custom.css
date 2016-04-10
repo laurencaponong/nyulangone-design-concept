@@ -1,0 +1,85 @@
+.navbar {
+	color: #fff;
+	background: rgba(79,13,123,1);
+	background: -moz-linear-gradient(top,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(78,23,115,1) 100%);
+	background: -webkit-gradient(left top,left bottom,color-stop(0%,rgba(79,13,123,1)),color-stop(27%,rgba(79,13,123,1)),color-stop(100%,rgba(78,23,115,1)));
+	background: -webkit-linear-gradient(top,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(78,23,115,1) 100%);
+	background: -o-linear-gradient(top,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(78,23,115,1) 100%);
+	background: -ms-linear-gradient(top,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(78,23,115,1) 100%);
+	background: linear-gradient(to bottom,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(78,23,115,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4f0d7b',endColorstr='#4e1773',GradientType=0);
+}
+
+.navbar-right li a {
+    color:#f9f9f9 !important;
+}
+
+.signIn {
+	background-color: #4f0d7b;
+	color: #4f0d7b;
+}
+
+.purpleBg {
+	background: rgba(79,13,123,1);
+	background: -moz-linear-gradient(top,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(50,7,77,1) 100%);
+	background: -webkit-gradient(left top,left bottom,color-stop(0%,rgba(79,13,123,1)),color-stop(27%,rgba(79,13,123,1)),color-stop(100%,rgba(50,7,77,1)));
+	background: -webkit-linear-gradient(top,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(50,7,77,1) 100%);
+	background: -o-linear-gradient(top,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(50,7,77,1) 100%);
+	background: -ms-linear-gradient(top,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(50,7,77,1) 100%);
+	background: linear-gradient(to bottom,rgba(79,13,123,1) 0%,rgba(79,13,123,1) 27%,rgba(50,7,77,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4f0d7b',endColorstr='#32074d',GradientType=0);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.purple {
+	background-color: #4f0d7b;
+	color: #fff;
+}
+
+.purple:hover {
+	color: #fff;
+    transition: all 0.5s ease 0s;
+    background-color: #391359;
+}
+
+.glyphicon:hover {
+    transition: all 0.5s ease 0s;
+    color: #391359;
+}
+
+.navbar-brand {
+	color: #fff !important;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+
+body,p,h1,h2,h3,h4,h5,h6 {
+	font-family: 'Lato',sans-serif;
+}
+
+.active {
+	background-color: #4f0d7b !important;
+	color: #fff;
+}
+
+.nav-sidebar li .active {
+	background-color: #4f0d7b !important;
+	color: #fff;
+}
+
+.glyphicon {
+	font-size: 10rem;
+}
+
+.grey {
+	background-color: #f1f1f1;
+	padding: 20px;
+}
+
+
+.table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th {
+  background-color: #aaa;
+  color:#fff;
+  transition: all 0.3s ease 0s;
+}
