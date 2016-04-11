@@ -1,3 +1,3 @@
 ## Sign in / Dashboard Concept Design for NYU Langone 
 
-Tools: Bootstrap, Illustrator, Brackets, Balsamiq
+Tools: Bootstrap, Illustrator, Brackets
