@@ -10,6 +10,20 @@
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4f0d7b',endColorstr='#4e1773',GradientType=0);
 }
 
+.sh {
+    color: #fff;
+    font-weight: 300;
+}
+
+.whiteBox {
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.mainBox {
+    margin-top: 12%;
+}
+
 .navbar-right li a {
     color:#f9f9f9 !important;
 }
